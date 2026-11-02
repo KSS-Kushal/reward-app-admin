@@ -1,0 +1,14 @@
+node_modules
+dist
+coverage
+*.local
+.env.local
+.env.*.local
+.env
+.env.development
+.env.production
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.log
+agent.md
